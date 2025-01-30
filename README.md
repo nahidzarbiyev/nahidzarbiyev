@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidzarbiyev&label=Profile%20views&color=0e75b6&style=flat" alt="nahidzarbiyev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ichbinnahid" target="blank"><img src="https://img.shields.io/twitter/follow/ichbinnahid?logo=twitter&style=for-the-badge" alt="ichbinnahid" /></a> </p>
+
 
 - 🌱 I’m currently learning **React, Typescript, nodeJs**
 
